@@ -49,6 +49,10 @@ pip install -r requirements.txt
 
 Create an environment variable named `TMDB_API_KEY` and set it to your TMDB API key.
 
+Generate the similarity matrix:
+python create_similarity.py
+
+
 Run the application:
 
 ```bash
