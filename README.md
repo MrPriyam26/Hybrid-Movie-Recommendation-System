@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="Screenshot 2026-07-29 091038" src="https://github.com/user-attachments/assets/21bc3c61-9514-4052-bf3b-0532bae7495d" /># Hybrid-Movie-Recommendation-System
 # 🎬 Hybrid Movie Recommendation System
 
 A movie recommendation web application built with **Python**, **Scikit-learn**, and **Streamlit**. The system recommends movies similar to a selected title using a hybrid approach that combines **content-based similarity** with **weighted movie ratings** for more relevant recommendations.
