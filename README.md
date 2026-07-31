@@ -47,6 +47,20 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
+Download the datasets from Kaggle:
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Place these files inside the datasets folder:
+
+datasets/
+├── tmdb_5000_movies.csv
+└── tmdb_5000_credits.csv
+
+Then run:
+
+python create_similarity.py
+
 Create an environment variable named `TMDB_API_KEY` and set it to your TMDB API key.
 
 Generate the similarity matrix:
